@@ -24,6 +24,5 @@ set shiftwidth=4
 set softtabstop=0 noexpandtab
 set tabstop=8 softtabstop=0 expandtab shiftwidth=4 smarttab
 set backspace=indent,eol,start "Make backspace work"
-set backspace=indent,eol,start "Make backspace work"
 
 set tildeop "Use ~ to swap case of letter at cursor"
